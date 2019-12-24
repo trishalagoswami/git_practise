@@ -1,1 +1,8 @@
 
+//In cpp
+
+cout<<"Hello world";
+
+//In c
+
+printf("Hello world");
